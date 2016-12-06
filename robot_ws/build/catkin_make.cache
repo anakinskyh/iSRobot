@@ -1,0 +1,2 @@
+driver_common/driver_base:driver_common/driver_common:driver_common/timestamp_tools:hokuyo_node:learning_joy:ros_dumbobot_nav:turn_signal:turtlebot_apps/turtlebot_actions:turtlebot_apps/turtlebot_apps:turtlebot_apps/turtlebot_calibration:turtlebot_apps/turtlebot_follower:turtlebot_apps/turtlebot_navigation:turtlebot_apps/turtlebot_rapps
+-DCATKIN_DEVEL_PREFIX=/home/anakin/Workspace/Robot/robot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/anakin/Workspace/Robot/robot_ws/install -G Unix Makefiles
